@@ -1,0 +1,31 @@
+_repo: Florulae-Insularum-Australium-Prodromus_36186
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forster, Georg
+    aliases:
+    - Forster, George
+    - Forster, Johann Georg Adam
+    - Forster, J. G. (Johann Georg)
+    birthdate: 1754
+    deathdate: 1794
+    gutenberg_agent_id: '37318'
+    url: http://www.gutenberg.org/2009/agents/37318
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Forster
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36186'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Plants -- Australia'
+title: Florulae Insularum Australium Prodromus
+url: http://www.gutenberg.org/ebooks/36186
